@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AngelJadan
 - 👀 I’m interested in Django, Angular, React and Spring.
-- 🌱 I’m currently learning Angular, React and Flutter.
+- 🌱 I’m currently learning Django and Flutter.
 - 💞️ I’m looking to collaborate on projects open source.
 - 🛒 I'm developing in flutter, app to ecommerce.
 
